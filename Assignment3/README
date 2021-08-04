@@ -1,0 +1,13 @@
+**Part A**
+
+The code for this part are attached in the ./Code/Part_A/ folder as
+- q1_cbow.py           - the CBOW model implementation
+- q1_skipgram.py       - the skipgram implementation
+- q1_lstm.py           - the LSTM-based model implementation
+
+
+**PartB**
+
+Codes used for this part for sentiment classification are attached in the /Code/Part_A/ folder as
+- q2_other_lstm.py        - Uses the saved weights from the model in Part A 
+- q2_pretrained_lstm.py   - Uses pre-trained embeddings from torchtext

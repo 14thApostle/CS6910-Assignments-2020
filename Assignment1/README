@@ -1,0 +1,28 @@
+Original report can be found at (https://drive.google.com/file/d/1dXgOvWBJfpQmHbAV4zS80EO2ZZpKt3vF/view?usp=sharing)
+
+**Question 1**
+
+I relied on an automated script to run and test different models with different parameters and to record the results.
+They are attached in the Q1 folder as
+- max_pool.py
+- n_conv_layers.py
+- n_fc_layers.py
+- n_filters.py
+Also attached as testing.py is the basefile that I used to run further manual tests.
+
+**Question 2**
+
+2.1) The occlusion sensitivity code has been attached as occlusion_sens.py in Q2_1 folder
+
+2.2) Filter Analysis
+
+    2.2.1) The filter identification code for a particular layer has been attached as filter_identification.py. 
+            The filter_ident.ipynb has the same code but with the values changed to get results for each of the 5 layers needed.
+            
+    2.2.2) The filter modification code for a particular layer has been attached as filter_modification.py
+            The filter_modification.ipynb has the same code but with the values changed to get results for each of the 5 layers.
+            
+
+(Output has been cleared for the attached jupyter notebooks as they were around 15-60mb with the output images)
+
+
